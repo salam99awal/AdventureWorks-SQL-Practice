@@ -8,3 +8,5 @@ This repository contains an SQL file that includes all of my solution attempts f
 To view the solutions, simply open the AdventureWorks files. 
 
 If you have a more optimized solution for any of the problems, want to add explanations, or have any improvements to existing solutions, please feel free to contribute by creating a pull request.
+
+![SQL](https://img.shields.io/badge/Language-SQL-blue)
