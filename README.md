@@ -3,7 +3,7 @@
 
 
 ## OVERVIEW
-This repository contains an SQL file that includes all of my solution attempts for W3r's Adventure Works SQL 100 questions. These solutions delved deep into the world of data management and SQL optimization. It was a rewarding challenge as it has not only broadened my technical knowledge but also boosted my confidence in tackling complex SQL tasks
+This repository contains an SQL file that includes all of my solution attempts for W3r's Adventure Works SQL 200 questions. These solutions delved deep into the world of data management and SQL optimization. It was a rewarding challenge as it has not only broadened my technical knowledge but also boosted my confidence in tackling complex SQL tasks
 
 To view the solutions, simply open the AdventureWorks files. 
 
